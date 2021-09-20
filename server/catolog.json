@@ -1,0 +1,63 @@
+[
+   {
+   	"id":"elem1",
+   	"name": "Хетчбек",
+   	"img": "https://mercedes-benz.kh.ua/img/section/205/32_tn.png",
+   	"price": 877652
+   },
+      {
+      "id":"elem2",
+      "name": "Хетчбек",
+      "img": "https://mercedes-benz.kh.ua/img/section/205/32_tn.png",
+      "price": 877652
+   },
+      {
+      "id":"elem3",
+      "name": "Хетчбек",
+      "img": "https://mercedes-benz.kh.ua/img/section/205/32_tn.png",
+      "price": 877652
+   },
+      {
+      "id":"elem4",
+      "name": "Хетчбек",
+      "img": "https://mercedes-benz.kh.ua/img/section/205/32_tn.png",
+      "price": 877652
+   },
+      {
+      "id":"elem5",
+      "name": "Хетчбек",
+      "img": "https://mercedes-benz.kh.ua/img/section/205/32_tn.png",
+      "price": 877652
+   },
+      {
+      "id":"elem6",
+      "name": "Хетчбек",
+      "img": "https://mercedes-benz.kh.ua/img/section/205/32_tn.png",
+      "price": 877652
+   },
+      {
+      "id":"elem7",
+      "name": "Хетчбек",
+      "img": "https://mercedes-benz.kh.ua/img/section/205/32_tn.png",
+      "price": 877652
+   },
+      {
+      "id":"elem8",
+      "name": "Хетчбек",
+      "img": "https://mercedes-benz.kh.ua/img/section/205/32_tn.png",
+      "price": 877652
+   },
+      {
+      "id":"elem9",
+      "name": "Хетчбек",
+      "img": "https://mercedes-benz.kh.ua/img/section/205/32_tn.png",
+      "price": 877652
+   },
+      {
+      "id":"elem10",
+      "name": "Хетчбек",
+      "img": "https://mercedes-benz.kh.ua/img/section/205/32_tn.png",
+      "price": 877652
+   }
+
+]
